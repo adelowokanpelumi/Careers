@@ -24,11 +24,43 @@
       .pcaption{font-size: 25px;}
       .pmedium{font-size: 22px;}
 
-
-.myBack-md
-{
-    background-image:url("dist/img/1.1.png");
-    background-repeat:no-repeat;
-    color:#555;
-    padding:15px
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 450px;
+    padding-top: 200px !important;
 }
+.hovereffect{
+	text-align: center !important;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.hovereffect:hover{
+	background-color: #d3d3d3;
+}
+a{
+	color: black !important;
+}
+a.div{
+	text-decoration: none !important;
+	color: black !important;
+}
+.red{color: red;}
+
+.coldiv{
+	height: 180px;
+}
+ .design{
+ 	font-size: 14px !important;
+ }
+ thead, th, tr, td{
+ 	font-size: 13px !important;
+ }
+
