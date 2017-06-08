@@ -57,10 +57,23 @@ a.div{
 .coldiv{
 	height: 180px;
 }
+
+.coldivv{
+	height: 250px;
+	background-color: #fff;
+}
+
  .design{
  	font-size: 14px !important;
  }
+
+ .listed{
+ 	font-size: 14px !important
+ }
+
  thead, th, tr, td{
  	font-size: 13px !important;
  }
+
+
 
