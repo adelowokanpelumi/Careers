@@ -11,3 +11,5 @@
         document.getElementById("changing").src = imageSources[index];
         index++;
       }, 10000);
+
+ 
