@@ -1,3 +1,7 @@
+body{
+	background-color: #fff !important;
+}
+
 .imgtable{
 	width: 300px !important;
 	height: 300px !important;
@@ -25,7 +29,8 @@
       .pmedium{font-size: 22px;}
 
 .bg-overlay {
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09");
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), 
+    url("https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -149,10 +154,27 @@ a.div{
 
 
 .greycontainer{
-	background-color: #fafafa;
+	background-color:  #006699;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background-size: cover;
+  color: #fff
 }
 
 
+.headfont{
+	font-size: 40px !important;
+}
+.subnav-item{
+  color: #fff !important;
+}
+
+.bluecontainer{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+  background-size: cover;
+}
+.itemcenter{
+  
+}
